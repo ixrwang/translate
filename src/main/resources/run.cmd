@@ -1,0 +1,1 @@
+D:\java\jdk1.7.0_04\bin\java.exe -jar Translate-1.0-SNAPSHOT.jar
